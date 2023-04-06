@@ -7,6 +7,15 @@
 
   <h3 align="center">Firebase Firestore - App CRUD</h3>
 </div>
+<br/>
+
+### Built With
+
+- Express js
+- Firebase-admin
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<br/>
 
 ## Getting Started
 
